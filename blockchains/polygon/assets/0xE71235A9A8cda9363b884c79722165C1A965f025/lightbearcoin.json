@@ -1,8 +1,7 @@
 {
   "chainId": 137,
-  "address": "0xE71235A9A8cda9363b884c79722165C1A965f025",
+  "address": "0xe71235a9a8cda9363b884c79722165c1a965f025",
   "name": "LightBear Coin",
   "symbol": "LBC",
-  "decimals": 18,
-  "logoURI": "http://lightbearsoftware.com/wp-content/uploads/2026/03/LightBearCoin-2.png"
+  "decimals": 18
 }
